@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<project name="zoom" default="dist" basedir=".">
+    <property name="commit.message" value=""/>
+    <property name="plugin.main.version" value="4394"/>
+
+    <property name="plugin.author" value="gumik"/>
+    <property name="plugin.class" value="gumik.josm.zoom.ZoomPlugin"/>
+    <property name="plugin.description" value="zoom"/>
+    <property name="plugin.icon" value="images/dialogs/zoom-icon.png"/>
+    <property name="plugin.link" value=""/>
+    
+    <import file="../build-common.xml"/>
+  
+</project>
