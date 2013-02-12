@@ -9,7 +9,7 @@ Installation
 * Download [JOSM sources](http://josm.openstreetmap.de/wiki/Download#Source).
 * Copy _josm-zoom_ directory onto *josm/plugins*.
 * Go to _zoom_ directory and invoke `ant`.
-* Copy _josm/dist/zoom.jar_ to your josm plugins directory (*~/.josm/plugins* on Linux)
+* Copy _josm/dist/zoom.jar_ to your josm plugins directory (~/.josm/plugins on Linux)
 
 Usage
 -----
