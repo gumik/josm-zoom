@@ -14,4 +14,4 @@ Installation
 Usage
 -----
 
-When you have map layer opened you can go to _Windows_ menu and check _Zoom_. New window will be shown in _Toggle Dialogs_ area. Two buttons (_+_ and _-_) and slider allows you to zoom to specific level. The _o_ button will zoom to nearest not-fractional level.
+When you have map layer opened you can go to _Windows_ menu and check _Zoom_. New window will be shown in _Toggle Dialogs_ area. Two buttons (*+* and _-_) and slider allows you to zoom to specific level. The _o_ button will zoom to nearest not-fractional level.
